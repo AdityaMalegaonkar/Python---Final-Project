@@ -1,3 +1,9 @@
+# Admin id : restaurant24x7@gmail.com
+# Admin password : restaurant
+
+# User id : user24x7@gmail.com
+# User password : user
+
 from exceptions import *
 import re
 import datetime as dt
